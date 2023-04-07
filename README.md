@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+[![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](kxpatil.io)
 
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
@@ -10,7 +10,7 @@
 
 - 👯 I’m LEARNING **JS|REACT**
 
-- 💬 Ask me about **REACT,C++,JAVA,JS**
+- 💬 Ask me about ** REACT, C++, JAVA, JS,[]still learning and making progress**
 
 - 📫 How to reach me **kxpatil02@gmail.com**
 
