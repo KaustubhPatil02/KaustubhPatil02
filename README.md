@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](kxpatil.io)
 
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://flatironschool.com/legacy-assets/images.ctfassets.net/hkpf2qd2vxgx/44oj2847JshvH8bktR7JyM/070c9adb7b012836066efe8ee53ae4a9/HTML_CSS_JS.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxpatil02&label=Profile%20views&color=0e75b6&style=flat" alt="kxpatil02" /> </p>
 
