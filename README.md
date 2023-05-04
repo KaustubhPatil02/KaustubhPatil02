@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxpatil02&label=Profile%20views&color=0e75b6&style=flat" alt="kxpatil02" /> </p>
 
 
-- 🔭 I’m currently working on [C.O.T.A](https://github.com/kxpatil02/C.O.T.A---authO-)
+- 🔭 I’m currently working on [C.O.T.A](https://github.com/kxpatil02/chat-app-firebase)
 
 - 👯 I’m LEARNING **JS|REACT**
 
