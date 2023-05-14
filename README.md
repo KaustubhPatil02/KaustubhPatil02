@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **kxpatil02@gmail.com**
 
-- ⚡ Fun fact **I think than I know evey thing about codiing**
+- ⚡ Fun fact **Fortran is thought to be the oldest still-in-use programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
