@@ -19,7 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!--  <a href="https://twitter.com/kaustubhpatil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustubhpatil" height="30" width="40" /></a>  -->
-<a href="https://www.linkedin.com/in/kaustubh-patil-9375a9201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-patil-9375a9201/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kaustubh-patil-9375a9201/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-patil-9375a9201/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/oye._.patil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/oye._.patil/" height="30" width="40" /></a>
 </p>
 
@@ -29,10 +30,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kxpatil02">
-<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kxpatil02" /></a></p><br><br>
+<img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kxpatil02" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kxpatil02&show_icons=true&locale=en&layout=compact" alt="kxpatil02" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxpatil02&show_icons=true&locale=en" alt="kxpatil02" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxpatil02&" alt="kxpatil02" /></p>
+ <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kxpatil02&show_icons=true&locale=en" alt="kxpatil02" /></p> 
+ 
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kxpatil02&" alt="kxpatil02" /></p> 
