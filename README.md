@@ -7,6 +7,8 @@
 
 
 - 🔭 I’m currently working on [GROBBIZ - Your Digital Business Partner](https://github.com/GROBBIZ/landing-page)
+      & [LET's CHAT APP](https://github.com/kxpatil02/lets-chat-app.git)
+        Checkout the website: https://lets-chat-app-steel.vercel.app/
 
 - 👯 I’m LEARNING **JS|REACT**
 
