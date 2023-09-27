@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kxpatil02&label=Profile%20views&color=0e75b6&style=flat" alt="kxpatil02" /> </p>
 
 
-- 🔭 I’m currently working on [GROBBIZ - Your Digital Business Partner](https://github.com/GROBBIZ/landing-page)
-      & [LET's CHAT APP](https://github.com/kxpatil02/lets-chat-app.git)
+- 🔭 I’m currently working on [Stray-AidConnect Web App](https://github.com/kxpatil02/strayAid-connect) https://stray-aid-connect.vercel.app/
+      & Just finished working on [LET's CHAT APP](https://github.com/kxpatil02/lets-chat-app.git)
         Checkout the website: https://lets-chat-app-steel.vercel.app/
 
 - 👯 I’m LEARNING **JS|REACT**
