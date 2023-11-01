@@ -15,7 +15,7 @@
 - 💬 Ask me about ** REACT, C++, JAVA, JS,[]still learning and making progress**
 
 - 📫 How to reach me **patilkaustubh990@gmail.com**
-- [Resume] (https://shorturl.at/hnRU2)
+- [[Resume](https://shorturl.at/hnRU2)]
 
 - ⚡ Fun fact **Fortran is thought to be the oldest still-in-use programming language**
 
