@@ -8,14 +8,14 @@
 
 - 🔭 I’m currently working on [Stray-AidConnect Web App](https://github.com/Kaustubhpatil02/strayAid-connect) Checkout: https://stray-aid-connect.vercel.app/
       & Just finished working on [LET's CHAT APP](https://github.com/Kaustubhpatil02/lets-chat-app.git)
-        Checkout the website: https://lets-chat-app-steel.vercel.app/
-  -Resume: https://github.com/KaustubhPatil02/resume.me-kaustubhPatil/blob/main/resume.kaustubhpatil.pdf
-
+        Checkout the website: https://lets-chat-app-steel.vercel.app/\
+  
 - 👯 I’m LEARNING **ReactJs | NextJs | MERN**
 
 - 💬 Ask me about ** REACT, C++, JAVA, JS,[]still learning and making progress**
 
 - 📫 How to reach me **patilkaustubh990@gmail.com**
+- Resume: https://shorturl.at/hnRU2
 
 - ⚡ Fun fact **Fortran is thought to be the oldest still-in-use programming language**
 
