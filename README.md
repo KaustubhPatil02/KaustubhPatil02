@@ -40,5 +40,5 @@
  
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaustubhpatil02&show_icons=true&locale=en&layout=compact" alt="kaustubhpatil02" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kaustubhpatil02&" alt="kaustubhpatil02" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaustubhPatil02&" alt="KaustubhPatil02" /></p>
 
