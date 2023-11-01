@@ -9,6 +9,7 @@
 - 🔭 I’m currently working on [Stray-AidConnect Web App](https://github.com/Kaustubhpatil02/strayAid-connect) Checkout: https://stray-aid-connect.vercel.app/
       & Just finished working on [LET's CHAT APP](https://github.com/Kaustubhpatil02/lets-chat-app.git)
         Checkout the website: https://lets-chat-app-steel.vercel.app/
+  -Resume: https://github.com/KaustubhPatil02/resume.me-kaustubhPatil/blob/main/resume.kaustubhpatil.pdf
 
 - 👯 I’m LEARNING **ReactJs | NextJs | MERN**
 
