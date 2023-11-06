@@ -5,7 +5,8 @@
 [![](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](kxpatil.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kaustubhpatil02&label=Profile%20views&color=0e75b6&style=flat" alt="Kaustubhpatil02" /> </p>
 
-- [Resume](https://drive.google.com/file/d/10nCgj1xUoG8ububmkfSLrtkOnO5cyscq/view){:target="_blank"}
+- [[Resume](https://drive.google.com/file/d/10nCgj1xUoG8ububmkfSLrtkOnO5cyscq/view){:target="_blank"}]
+- - [[Resume](https://drive.google.com/file/d/10nCgj1xUoG8ububmkfSLrtkOnO5cyscq/view)]
 
 - 🔭 I’m currently working on [Stray-AidConnect Web App](https://github.com/Kaustubhpatil02/strayAid-connect) Checkout: https://stray-aid-connect.vercel.app/
       & Just finished working on [LET's CHAT APP](https://github.com/Kaustubhpatil02/lets-chat-app.git)
