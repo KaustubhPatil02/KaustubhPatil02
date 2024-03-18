@@ -7,12 +7,13 @@ Web Developer, Learner, sometimes Freelancer too
 I've been developing websites from last 2 years. And have pretty much laid my hands on frameworks and library such as NextJs and ReactJs. I want to explore more in this field and I'm open on learning and making new things 💡
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [DeveloperXdev](http://kaustubh-patil02-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [DeveloperXdev](https://kaustubhpatil.vercel.app/)
 * ✉️  You can contact me at [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
 * 🚀  I'm currently working on [StrayAidConnect - ChatApp](http://stray-aid-connect.vercel.app/)
 * 🧠  I'm learning NextJs | MERN
 * 🤝  I'm open to collaborating on AI Based projects or any Front-end based projects
 * ⚡  I'm Noob
+  
 
 <a href="https://www.github.com/KaustubhPatil02" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KaustubhPatil02?logo=github&style=for-the-badge&color=64748b&labelColor=171717" /></a><a href="https://www.x.com/Kx_Patil" target="_blank" rel="noreferrer"><img
