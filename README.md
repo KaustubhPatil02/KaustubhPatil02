@@ -1,7 +1,8 @@
 Hi !👋 My name is Kaustubh Patil
 ======================================================================================================================================
 
-Web Developer, Learner, sometimes Freelancer too
+Web Developer, Learner, sometimes Freelancer too.
+<br/>
 📄  [My Resume](https://drive.google.com/file/d/1b28RsPbSCD5PHTZZca8yxqpy21z_gwU6/view?usp=drive_link)
 ------------------------------------------------
 
