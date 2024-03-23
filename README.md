@@ -2,14 +2,15 @@ Hi !👋 My name is Kaustubh Patil
 ======================================================================================================================================
 
 Web Developer, Learner, sometimes Freelancer too
+📄  [My Resume](https://drive.google.com/file/d/1b28RsPbSCD5PHTZZca8yxqpy21z_gwU6/view?usp=drive_link)
 ------------------------------------------------
 
 I've been developing websites from last 2 years. And have pretty much laid my hands on frameworks and library such as NextJs and ReactJs. I want to explore more in this field and I'm open on learning and making new things 💡
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [DeveloperXdev](https://kaustubhpatil.vercel.app/)
+* 🖥️  See my [PORTFOLIO](https://kaustubhpatil.vercel.app/)
 * ✉️  You can contact me at [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
-* 🚀  I'm currently working on [StrayAidConnect](http://stray-aid-connect.vercel.app/)
+* 🚀  I'm currently working on [StrayAidConnect](http://stray-aid-connect.vercel.app/) & [WriteWise](https://github.com/KaustubhPatil02/WriteWise)
 * 🧠  I'm learning NextJs | MERN
 * 🤝  I'm open to collaborating on AI Based projects or any Front-end based projects
 * ⚡  I'm Noob
