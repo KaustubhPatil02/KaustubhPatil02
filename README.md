@@ -11,7 +11,7 @@ I've been developing websites from last 2 years. And have pretty much laid my ha
 * 🌍  I'm based in India
 * 🖥️  See my [PORTFOLIO](https://kaustubhpatil.vercel.app/)
 * ✉️  You can contact me at [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
-* 🚀  I'm currently working on [StrayAidConnect](http://stray-aid-connect.vercel.app/) & [WriteWise](https://write-wise-blog.vercel.app/)
+* 🚀  I'm currently working on [StrayAidConnect](http://stray-aid-connect.vercel.app/) & [WriteWise-blog](https://write-wise-blog.vercel.app/)
 * 🧠  I'm learning NextJs | MERN
 * 🤝  I'm open to collaborating on AI Based projects or any Front-end based projects
 * ⚡  I'm Noob
