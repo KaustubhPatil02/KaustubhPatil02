@@ -46,7 +46,7 @@ src="https://img.shields.io/twitter/follow/Kx_Patil?logo=twitter&style=for-the-b
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/KaustubhPatil02/WriteWise-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=mediumapp&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/KaustubhPatil02/lets-chat-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=lets-chat-app&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/KaustubhPatil02/WriteWise-blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=WriteWise-blog&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" /></a><a href="https://github.com/KaustubhPatil02/lets-chat-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=lets-chat-app&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
