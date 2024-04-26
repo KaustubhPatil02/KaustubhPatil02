@@ -12,7 +12,7 @@ I've been developing websites from last 2 years. And have pretty much laid my ha
 * 🖥️  See my [PORTFOLIO](https://kaustubhpatil.vercel.app/)
 * ✉️  You can contact me at [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
 * ✅  Finished working on my [B.E - Final year Project]( https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project), see this website [here!](http://stray-aid-connect.vercel.app/)
-* 🚀  I'm currently working on [Fileify Storage]( https://github.com/KaustubhPatil02/Fileify-storage) & [WriteWise-blog](https://write-wise-blog.vercel.app/)
+* 🚀  I'm currently working on [ClerkXConvex-demo]( https://github.com/KaustubhPatil02/Fileify-storage) & [WriteWise-blog](https://write-wise-blog.vercel.app/)
 * 🧠  I'm learning NextJs | MERN
 * 🤝  I'm open to collaborating on AI Based projects or any Front-end based projects
 * ⚡  I'm Noob
