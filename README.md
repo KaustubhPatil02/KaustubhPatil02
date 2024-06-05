@@ -8,14 +8,27 @@ Web Developer, Learner, sometimes Freelancer too.
 
 I've been developing websites from last 2 years. And have pretty much laid my hands on frameworks and library such as NextJs and ReactJs. I want to explore more in this field and I'm open on learning and making new things 💡
 
-* 🌍  I'm based in India
-* 🖥️  See my [PORTFOLIO](https://kaustubhpatil.vercel.app/)
-* ✉️  You can contact me at [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
-* ✅  Finished working on my [B.E - Final year Project]( https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project), see this website [here!](http://stray-aid-connect.vercel.app/)
-* 🚀  I'm currently working on [ClerkXConvex-demo]( https://github.com/KaustubhPatil02/Fileify-storage) & [WriteWise-blog](https://write-wise-blog.vercel.app/)
-* 🧠  I'm learning NextJs | MERN
-* 🤝  I'm open to collaborating on AI Based projects or any Front-end based projects
-* ⚡  I'm Noob
+### 🖥️ [Portfolio](https://kaustubhpatil.vercel.app/)
+### ✨ [Personal Blog](https://write-wise-blog.vercel.app/profile/aBpTvLeA9Ucu2iBtWFHS2v0icop2)
+### ✉️ Contact: [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
+
+---
+
+### Recent Projects:
+* ✅ **[B.E - Final Year Project: StrayAid-Connect](https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project)**: See the [website here](http://stray-aid-connect.vercel.app/).
+* 🚀 **Current Projects**:
+  * [ClerkXConvex-demo](https://github.com/KaustubhPatil02/Fileify-storage)
+  * [WriteWise-blog](https://write-wise-blog.vercel.app/)
+
+---
+
+### Skills & Interests:
+* 🧠 Learning: Next.js | MERN
+* 🤝 Open to collaboration on AI-based projects or any front-end projects
+* ⚡ Just getting started!
+
+---
+
   
 
 <a href="https://www.github.com/KaustubhPatil02" target="_blank" rel="noreferrer"><img
