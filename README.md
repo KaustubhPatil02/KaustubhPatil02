@@ -131,22 +131,20 @@ I've been developing websites for the last 2 years and have experience with fram
 
 
 
-### Top Repositories
-<div width="100%" align="center">
-  <a href="https://github.com/KaustubhPatil02/WriteWise-blog" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=WriteWise-blog&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/KaustubhPatil02/lets-chat-app" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=lets-chat-app&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
-  </a>
+<div align="center">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+    <a href="https://github.com/KaustubhPatil02/WriteWise-blog" style="margin: 10px; flex: 1 1 50%;">
+      <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=WriteWise-blog&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/KaustubhPatil02/lets-chat-app" style="margin: 10px; flex: 1 1 50%;">
+      <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=lets-chat-app&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/KaustubhPatil02/strayAid-connect" style="margin: 10px; flex: 1 1 50%;">
+      <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=strayAid-connect&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
+    </a>
+    <a href="https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project" style="margin: 10px; flex: 1 1 50%;">
+      <img width="250" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=StrayAid-Connect-BE-Final-yr-Project&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
+    </a>
+  </div>
 </div>
-<br /><br /><br /><br /><br /><br /><br />
-<br /><br /><br /><br /><br />
-<div width="100%" align="center">
-  <a href="https://github.com/KaustubhPatil02/strayAid-connect" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=strayAid-connect&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
-  </a>
-  <a href="https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=KaustubhPatil02&repo=StrayAid-Connect-BE-Final-yr-Project&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en" />
-  </a>
-</div>
+
