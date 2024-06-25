@@ -15,7 +15,7 @@ I've been developing websites for the last 2 years and have experience with fram
 ---
 
 ### Recent Projects:
-* ✅ **[B.E - Final Year Project: StrayAid-Connect](https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project)**: See the [website here](http://stray-aid-connect.vercel.app/).
+* ✅ **[StrayAid-Connect](https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project)**: See the [website here](http://stray-aid-connect.vercel.app/).
 * 🚀 **Current Projects**:
   * [ClerkXConvex-demo](https://github.com/KaustubhPatil02/Fileify-storage)
   * [WriteWise-blog](https://write-wise-blog.vercel.app/)
