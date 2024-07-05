@@ -8,7 +8,7 @@ Web Developer, Learner, sometimes Freelancer too.
 
 I've been developing websites for the last 2 years and have experience with frameworks and libraries such as Next.js and React.js. I want to explore more in this field and am open to learning and creating new things 💡
 
-### 🖥️ [Portfolio](https://devloperxdev.vercel.app/)
+### 🖥️ [Portfolio](https://kaustubhxdev.vercel.app/)
 ### ✨ [Personal Blog](https://write-wise-blog.vercel.app/profile/aBpTvLeA9Ucu2iBtWFHS2v0icop2)
 ### ✉️ Contact: [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
 
