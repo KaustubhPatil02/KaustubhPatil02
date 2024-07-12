@@ -130,7 +130,7 @@ I've been developing websites for the last 2 years and have experience with fram
 </p>
 
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/KaustubhPatil02"><img src="https://github-readme-stats.vercel.app/api?username=KaustubhPatil02&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&show_icons=true" alt="KaustubhPatil02's GitHub stats" /></a>
 
