@@ -130,6 +130,14 @@ I've been developing websites for the last 2 years and have experience with fram
 </p>
 
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/KaustubhPatil02"><img src="https://github-readme-stats.vercel.app/api?username=KaustubhPatil02&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&show_icons=true" alt="KaustubhPatil02's GitHub stats" /></a>
+
+<a href="http://www.github.com/KaustubhPatil02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KaustubhPatil02&stroke=ffffff&background=171717&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/KaustubhPatil02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaustubhPatil02&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=64748b&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ### Top Repos
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center;">
