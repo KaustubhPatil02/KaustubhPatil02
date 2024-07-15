@@ -4,7 +4,7 @@ Hi! 👋 My name is Kaustubh Patil
 
 Web Developer, Learner, sometimes Freelancer too.
 
-📄 [My Resume](https://drive.google.com/file/d/1HM-3163vAYM029y5L2dgzrUZZCRngv15/view?usp=sharing)
+📄 [My Resume](https://drive.google.com/file/d/1I2c1N7xoUtf33rcHw9dtrRo2wAfDxyLl/view?usp=sharing)
 
 I've been developing websites for the last 2 years and have experience with frameworks and libraries such as Next.js and React.js. I want to explore more in this field and am open to learning and creating new things 💡
 
