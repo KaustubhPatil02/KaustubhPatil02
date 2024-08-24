@@ -4,10 +4,10 @@ Hi! 👋 My name is Kaustubh Patil
 
 Web Developer, Learner, sometimes Freelancer too.
 
-📄 <a href="https://drive.google.com/file/d/10aV3sl2hb8B-f_t-SDgO7TD1EX0NYW8p/view?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
+
 
 I've been developing websites for the last 2 years and have experience with frameworks and libraries such as Next.js and React.js. I want to explore more in this field and am open to learning and creating new things 💡
-
+### 📄 [Resume](https://drive.google.com/file/d/10aV3sl2hb8B-f_t-SDgO7TD1EX0NYW8p/view?usp=sharing)
 ### 🖥️ [Portfolio](https://kaustubhpatil.vercel.app/)
 ### ✨ [Personal Blog](https://write-wise-blog.vercel.app/profile/aBpTvLeA9Ucu2iBtWFHS2v0icop2)
 ### ✉️ Contact: [kaustubhpatil880@gmail.com](mailto:kaustubhpatil880@gmail.com)
