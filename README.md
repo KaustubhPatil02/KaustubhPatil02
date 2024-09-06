@@ -6,7 +6,7 @@ Web Developer, Learner, sometimes Freelancer too.
 
 
 
-I've been developing websites for the last 2 years and have experience with frameworks and libraries such as Next.js and React.js. I want to explore more in this field and am open to learning and creating new things 💡
+I've been developing websites for the last 2 years and have experience with frameworks and libraries such as Next.js and React.js. I want to explore more in this field and am open to learning and creating new things 💡 .
 ### 📄 [Resume](https://drive.google.com/file/d/1zRPPDCAcmF2zDoIib7Fv1B_nTzCOZsJ9/view?usp=sharing)
 ### 🖥️ [Portfolio](https://kaustubhpatil.vercel.app/)
 ### ✨ [Personal Blog](https://write-wise-blog.vercel.app/profile/aBpTvLeA9Ucu2iBtWFHS2v0icop2)
@@ -15,12 +15,15 @@ I've been developing websites for the last 2 years and have experience with fram
 ---
 
 ### Recent Projects:
-* ⚒️ [LiveDocs](https://github.com/KaustubhPatil02/livedocs) on going
+* ⚒️ [LiveDocs](https://livedocs-draf.vercel.app/) 
+  🌐 [Source](https://livedocs-draf.vercel.app/) on going
+  
 * ✅ **[StrayAid-Connect](https://github.com/KaustubhPatil02/StrayAid-Connect-BE-Final-yr-Project)**: See the [website here](http://stray-aid-connect.vercel.app/).
 * 🚀 **Current Projects**:
   * [ClerkXConvex-demo](https://github.com/KaustubhPatil02/Fileify-storage)
   * [WriteWise-blog](https://write-wise-blog.vercel.app/)
 
+ **Wanna See something Amazing [click here](https://github.com/KaustubhPatil02/React-three-fiber)**
 ---
 
 ### Skills & Interests:
