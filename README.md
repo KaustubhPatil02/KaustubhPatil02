@@ -22,6 +22,7 @@ I've been developing websites for the last 2 years and have experience with fram
 * 🚀 **Current Projects**:
   * [ClerkXConvex-demo](https://github.com/KaustubhPatil02/Fileify-storage)
   * [WriteWise-blog](https://write-wise-blog.vercel.app/)
+  * [React-three-fiber](https://github.com/KaustubhPatil02/React-three-fiber)
 
  **Wanna See something Amazing [click here](https://github.com/KaustubhPatil02/React-three-fiber)**
 ---
