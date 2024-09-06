@@ -24,7 +24,7 @@ I've been developing websites for the last 2 years and have experience with fram
   * [WriteWise-blog](https://write-wise-blog.vercel.app/)
   * [React-three-fiber](https://github.com/KaustubhPatil02/React-three-fiber)
 
- **Wanna See something Amazing [click here](https://github.com/KaustubhPatil02/React-three-fiber)**
+ **Wanna See something Amazing [click here](https://react-three-fiber-dun.vercel.app/)**
 ---
 
 ### Skills & Interests:
