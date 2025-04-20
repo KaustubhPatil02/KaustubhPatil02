@@ -30,7 +30,7 @@ I've been developing websites for the last 2 years and have experience with fram
 ---
 
 ### Skills & Interests:
-* 🧠 Learning: Next.js | MERN
+* 🧠 Learning: Next.js | MERN | System Design 
 * 🤝 Open to collaboration on AI-based projects or any front-end projects
 * ⚡ Just getting started!
 
